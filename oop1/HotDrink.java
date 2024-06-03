@@ -1,4 +1,4 @@
-package oop;
+package oop.oop1;
 
 public class HotDrink extends Product{
     protected double volume;
